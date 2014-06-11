@@ -1,8 +1,8 @@
-=== Genesis Sample Theme with SASS ===
+=== Genesis Sample Theme with Sass ===
 
-Github project link: https://github.com/gregrickaby/genesis-sample/tree/sass
+Github project link: https://github.com/FlagshipWP/genesis-sample
 
-This is my fork of the Genesis Sample Theme. I've added Sass, and *try* to keep it up to date with Genesis 2.0 development.
+This is a fork of the Genesis Sample Theme. It includes Sass and Grunt and will not necessairly be kept in sync with the original Genesis sample theme. We will make changes and improvements as we see fit.
 
 === Installation Instructions ===
 
@@ -14,4 +14,4 @@ This is my fork of the Genesis Sample Theme. I've added Sass, and *try* to keep 
 
 === Theme Support ===
 
-Please visit http://my.studiopress.com/help/ for theme support.
+Please visit http://flagshipwp.com/help/ for theme support.
