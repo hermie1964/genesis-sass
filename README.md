@@ -1,7 +1,8 @@
-=== Genesis Sample Theme ===
+=== Genesis Sample Theme with SASS ===
 
-Github project link: https://github.com/copyblogger/genesis-sample
+Github project link: https://github.com/gregrickaby/genesis-sample/tree/sass
 
+This is my fork of the Genesis Sample Theme. I've added Sass, and *try* to keep it up to date with Genesis 2.0 development.
 
 === Installation Instructions ===
 
