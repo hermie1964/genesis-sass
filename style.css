@@ -886,7 +886,7 @@ Site Header
 /* Logo, hide text */
 
 .header-image .site-header .wrap {
-	background: url(images/logo.png) no-repeat left;
+	background: url(assets/images/logo.png) no-repeat left;
 	padding: 0;
 }
 
@@ -1425,7 +1425,7 @@ Media Queries
 	only screen and (min-device-pixel-ratio: 1.5) {
 
 	.header-image .site-header .wrap {
-		background: url(images/logo@2x.png) no-repeat left;
+		background: url(assets/images/logo@2x.png) no-repeat left;
 		background-size: 320px 164px;
 	}
 
